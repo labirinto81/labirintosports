@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LabirintosportsApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ch.labirintosports.LabirintosportsApplication",
+            "args": "",
+            "projectName": "backend"
+        }
+    ]
+}
